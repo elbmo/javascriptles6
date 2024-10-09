@@ -11,10 +11,23 @@ h1{
 
 
 .msg-box {
-  border: 1px solid black;
+  border: 1px solid darkslategray;
   padding: 10px;
   margin: 10px;
   border-radius: 5px;
   border-width: 4px;
+}
+
+table{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    border-width: 4px;
+    padding: 10px;
+
+}
+
+.blok{
+    position: sticky;
 }
 
